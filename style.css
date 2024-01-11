@@ -240,3 +240,6 @@ a{
   text-decoration: none;
   color: rgb(128, 128, 128);
 }
+a button{
+  text-decoration: none;
+}
